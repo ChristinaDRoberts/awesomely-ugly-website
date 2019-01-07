@@ -1,0 +1,107 @@
+.ty{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+h1{
+    color: cadetblue;
+}
+
+
+.heading {
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 7%;
+}
+
+.cream{
+    height: 200px;
+    width: 20%;
+    display: inline-block;
+
+}
+
+.sanitizer{
+    height: 200px;
+    width: 20%;
+    display: inline-block;
+
+}
+
+
+.basket{
+    height: 200px;
+    width: 20%;
+    display: inline-block;
+
+}
+
+.bottles{
+    height:200px;
+    width:20%;
+    display: inline-block;
+
+}
+
+.Pictures2{
+    background-color: lightgrey;
+    padding: 4%;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+
+.let{
+    text-align: center;
+    color: cornflowerblue;
+    border: 3px dotted cornflowerblue;
+    margin: 3%;
+}
+
+
+
+.how{
+    font-size: 25px;
+
+}
+
+.about{
+    display: inline-block;
+    width: 35%;
+    border: 5px solid lightblue;
+    background-color: aliceblue;
+    text-align: center;
+    height: 150px;
+
+}
+
+.party{
+    display: inline-block;
+    width: 35%;
+    border: 5px solid lightblue;
+    background-color: aliceblue;
+    height: 150px;
+    text-align: center;
+    margin-left: 7%;
+
+
+}
+
+.bottom{
+
+    display:flex;
+    text-align: center;
+    padding-left: 12%;
+
+
+}
+
+a{
+    color: cornflowerblue;
+}
