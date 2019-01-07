@@ -12,17 +12,18 @@ h1{
     background-color: lightpink;
     text-align: center;
     padding-top: 7%;
+    padding-bottom: 2%;
 }
 
 .cream{
-    height: 200px;
+    height: 250px;
     width: 20%;
     display: inline-block;
 
 }
 
 .sanitizer{
-    height: 200px;
+    height: 250px;
     width: 20%;
     display: inline-block;
 
@@ -30,14 +31,14 @@ h1{
 
 
 .basket{
-    height: 200px;
+    height: 250px;
     width: 20%;
     display: inline-block;
 
 }
 
 .bottles{
-    height:200px;
+    height:250px;
     width:20%;
     display: inline-block;
 
@@ -105,3 +106,10 @@ ul {
 a{
     color: cornflowerblue;
 }
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+
