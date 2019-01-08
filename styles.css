@@ -11,9 +11,13 @@ h1{
 .heading {
     background-color: lightpink;
     text-align: center;
-    padding-top: 7%;
+    padding-top: 6%;
     padding-bottom: 2%;
 }
+ .main{
+     width: 65%;
+     height:30%;
+ }
 
 .cream{
     height: 250px;
@@ -79,7 +83,7 @@ ul {
     background-color: aliceblue;
     text-align: center;
     height: 150px;
-
+    color: darkcyan;
 }
 
 .party{
@@ -90,7 +94,7 @@ ul {
     height: 150px;
     text-align: center;
     margin-left: 7%;
-
+    color: darkcyan;
 
 }
 
@@ -100,13 +104,27 @@ ul {
     text-align: center;
     padding-left: 12%;
 
-
 }
 
 a{
     color: cornflowerblue;
 }
 
+.end{
+    display: inline-block;
+    margin-top: 7%;
+    color: cadetblue;
+
+}
+
+.end2{
+    display: inline-block;
+    float: right;
+    margin-top: 7%;
+    color: cadetblue;
+
+
+}
 .container {
     max-width: 1000px;
     margin: auto;
